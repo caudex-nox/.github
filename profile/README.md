@@ -1,4 +1,10 @@
-# Caudex
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="caudex-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="caudex-light.svg">
+    <img src="caudex-light.svg" width="200" alt="Caudex">
+  </picture>
+</p>
 
 ###### Growing roots for future software.
 
